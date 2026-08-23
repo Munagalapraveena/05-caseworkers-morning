@@ -71,5 +71,15 @@ This implementation uses Python 3 standard library modules only.
 
 From the `05-caseworkers-morning` directory:
 
-```bash
-python3 services/history_service.py --port 8083
+```powershell
+py services/history_service.py --port 8083
+
+
+### 2. Run the Caseworker Agent
+
+Keep the History API running in Terminal 1.
+
+Open a second PowerShell terminal in the `05-caseworkers-morning` directory and run:
+
+```powershell
+python agent.py
