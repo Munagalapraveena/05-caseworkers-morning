@@ -1,0 +1,604 @@
+{
+  "policy": [
+    "ACA-2026/1",
+    "ACA-2026/2"
+  ],
+  "referrals_processed": 12,
+  "results": [
+    {
+      "referral_id": "RF-2026-0412",
+      "outcome": "HANDOFF",
+      "policy": "ACA-2026/2 section 3.9",
+      "children": [
+        {
+          "name": "William Iverson",
+          "age": 5,
+          "date_of_birth": "2021-02-26"
+        }
+      ],
+      "reason": "Household includes a person under 18. A human caseworker must perform the ordinary casework."
+    },
+    {
+      "referral_id": "RF-2026-0413",
+      "outcome": "DRAFT",
+      "triage_note": "TRIAGE NOTE \u2014 RF-2026-0413\n\nResident:\nR-20507\n\nReferral source:\nSelf-referral (online)\n\nSummary:\nNew address notified. Resident has moved within the county.\n\nRequested action:\nRecord change of address\n\nUrgency:\nStandard\n\nCurrent case status:\nActive\n\nBenefit:\nHSP-C\n\nDistrict:\nCalder Central\n\nHousehold size:\n3\n\nRecent case events:\n- 2025-03-31: Payment issued \u2014 Left voicemail, no response.\n- 2025-05-19: Payment issued \u2014 Correspondence returned undelivered.\n- 2025-06-11: Award recalculated \u2014 Left voicemail, no response.\n\nRecommended next step:\nCaseworker review of the referral and supporting history.\n\nThis is a DRAFT only.\nIt does not change the resident's case."
+    },
+    {
+      "referral_id": "RF-2026-0414",
+      "outcome": "DRAFT",
+      "triage_note": "TRIAGE NOTE \u2014 RF-2026-0414\n\nResident:\nR-20514\n\nReferral source:\nAdult Social Care\n\nSummary:\nCare needs reassessed; resident now requires assistance with three activities of daily living.\n\nRequested action:\nReview award\n\nUrgency:\nStandard\n\nCurrent case status:\nActive\n\nBenefit:\nHSP-C\n\nDistrict:\nWeybridge\n\nHousehold size:\n1\n\nRecent case events:\n- 2025-04-03: Evidence requested \u2014 Referred to employment support.\n- 2025-05-22: Evidence requested \u2014 Left voicemail, no response.\n- 2025-07-21: Payment issued \u2014 Left voicemail, no response.\n\nRecommended next step:\nCaseworker review of the referral and supporting history.\n\nThis is a DRAFT only.\nIt does not change the resident's case."
+    },
+    {
+      "referral_id": "RF-2026-0415",
+      "outcome": "ESCALATE",
+      "policy": "ACA-2026/1 section 3.2",
+      "reason": "Suspension of an award requires supervisor approval."
+    },
+    {
+      "referral_id": "RF-2026-0416",
+      "outcome": "HANDOFF",
+      "policy": "ACA-2026/2 section 3.9",
+      "children": [
+        {
+          "name": "Maria Carver",
+          "age": 3,
+          "date_of_birth": "2022-04-20"
+        }
+      ],
+      "reason": "Household includes a person under 18. A human caseworker must perform the ordinary casework."
+    },
+    {
+      "referral_id": "RF-2026-0417",
+      "outcome": "DRAFT",
+      "triage_note": "TRIAGE NOTE \u2014 RF-2026-0417\n\nResident:\nR-20535\n\nReferral source:\nSelf-referral (telephone)\n\nSummary:\nResident queries why payment was lower this month.\n\nRequested action:\nDraft explanatory note\n\nUrgency:\nLow\n\nCurrent case status:\nActive\n\nBenefit:\nHSP-B\n\nDistrict:\nWeybridge\n\nHousehold size:\n1\n\nRecent case events:\n- 2024-07-09: Interview scheduled \u2014 Correspondence returned undelivered.\n- 2024-09-12: Payment issued \u2014 Documents received and filed.\n- 2024-10-18: Address change recorded \u2014 Attended district office in person.\n\nRecommended next step:\nCaseworker review of the referral and supporting history.\n\nThis is a DRAFT only.\nIt does not change the resident's case."
+    },
+    {
+      "referral_id": "RF-2026-0418",
+      "outcome": "HANDOFF",
+      "policy": "ACA-2026/2 section 3.9",
+      "children": [
+        {
+          "name": "Michael Crowley",
+          "age": 12,
+          "date_of_birth": "2013-08-13"
+        },
+        {
+          "name": "Rosa Vance",
+          "age": 0,
+          "date_of_birth": "2025-11-19"
+        }
+      ],
+      "reason": "Household includes a person under 18. A human caseworker must perform the ordinary casework."
+    },
+    {
+      "referral_id": "RF-2026-0419",
+      "outcome": "DRAFT",
+      "triage_note": "TRIAGE NOTE \u2014 RF-2026-0419\n\nResident:\nR-20549\n\nReferral source:\nEmployment Support\n\nSummary:\nResident has started a training program and is receiving a training allowance.\n\nRequested action:\nRecord income change\n\nUrgency:\nStandard\n\nCurrent case status:\nActive\n\nBenefit:\nHSP-C\n\nDistrict:\nCalder Central\n\nHousehold size:\n3\n\nRecent case events:\n- 2025-01-18: Award recalculated \u2014 Referred to employment support.\n- 2025-02-27: Contact logged \u2014 Left voicemail, no response.\n- 2025-03-07: Contact logged \u2014 Routine contact, no action required.\n\nRecommended next step:\nCaseworker review of the referral and supporting history.\n\nThis is a DRAFT only.\nIt does not change the resident's case."
+    },
+    {
+      "referral_id": "RF-2026-0420",
+      "outcome": "DRAFT",
+      "triage_note": "TRIAGE NOTE \u2014 RF-2026-0420\n\nResident:\nR-20556\n\nReferral source:\nDistrict Office (Ash Hill)\n\nSummary:\nCorrespondence returned undelivered twice. Whereabouts unconfirmed.\n\nRequested action:\nFlag for contact attempt\n\nUrgency:\nStandard\n\nCurrent case status:\nSuspended\n\nBenefit:\nHSP-A\n\nDistrict:\nNorthgate\n\nHousehold size:\n4\n\nRecent case events:\n- 2025-08-24: Award recalculated \u2014 Documents received and filed.\n- 2025-09-08: Review completed \u2014 Attended district office in person.\n- 2025-10-24: Payment issued \u2014 Correspondence returned undelivered.\n\nRecommended next step:\nCaseworker review of the referral and supporting history.\n\nThis is a DRAFT only.\nIt does not change the resident's case."
+    },
+    {
+      "referral_id": "RF-2026-0421",
+      "outcome": "DRAFT",
+      "triage_note": "TRIAGE NOTE \u2014 RF-2026-0421\n\nResident:\nR-20563\n\nReferral source:\nSelf-referral (online)\n\nSummary:\nResident reports a household member has entered residential care.\n\nRequested action:\nReview household composition\n\nUrgency:\nStandard\n\nCurrent case status:\nActive\n\nBenefit:\nHSP-C\n\nDistrict:\nWeybridge\n\nHousehold size:\n4\n\nRecent case events:\n- 2025-11-07: Interview attended \u2014 Referred to employment support.\n- 2025-12-22: Review completed \u2014 Referred to employment support.\n- 2026-01-14: Address change recorded \u2014 Left voicemail, no response.\n\nRecommended next step:\nCaseworker review of the referral and supporting history.\n\nThis is a DRAFT only.\nIt does not change the resident's case."
+    },
+    {
+      "referral_id": "RF-2026-0422",
+      "outcome": "DRAFT",
+      "triage_note": "TRIAGE NOTE \u2014 RF-2026-0422\n\nResident:\nR-20570\n\nReferral source:\nAppeals Panel\n\nSummary:\nPanel decision received. Award to be reinstated from date of termination.\n\nRequested action:\nDraft triage note for supervisor\n\nUrgency:\nHigh\n\nCurrent case status:\nActive\n\nBenefit:\nHSP-A\n\nDistrict:\nWeybridge\n\nHousehold size:\n4\n\nRecent case events:\n- 2024-11-21: Evidence requested \u2014 Award unchanged following review.\n- 2025-01-30: Evidence received \u2014 Attended district office in person.\n- 2025-03-20: Address change recorded \u2014 Left voicemail, no response.\n\nRecommended next step:\nCaseworker review of the referral and supporting history.\n\nThis is a DRAFT only.\nIt does not change the resident's case."
+    },
+    {
+      "referral_id": "RF-2026-0423",
+      "outcome": "ESCALATE",
+      "policy": "ACA-2026/1 section 3.4",
+      "reason": "Changing payment details requires supervisor approval."
+    }
+  ],
+  "trace": [
+    {
+      "referral_id": "RF-2026-0412",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20500",
+        "requested_action": "Review award"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0412",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Ash Hill"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0412",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 2
+      }
+    },
+    {
+      "referral_id": "RF-2026-0412",
+      "step": "DAY2_GUARDRAIL",
+      "message": "Household contains a person under 18.",
+      "details": {
+        "policy": "ACA-2026/2 section 3.9",
+        "children": [
+          "William Iverson"
+        ]
+      }
+    },
+    {
+      "referral_id": "RF-2026-0412",
+      "step": "HANDOFF",
+      "message": "Triage note NOT drafted. Referral handed to caseworker.",
+      "details": {
+        "policy": "ACA-2026/2 section 3.9"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0413",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20507",
+        "requested_action": "Record change of address"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0413",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Calder Central"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0413",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 3
+      }
+    },
+    {
+      "referral_id": "RF-2026-0413",
+      "step": "EVENTS",
+      "message": "Case events retrieved.",
+      "details": {
+        "event_count": 9
+      }
+    },
+    {
+      "referral_id": "RF-2026-0413",
+      "step": "DRAFT",
+      "message": "Triage note drafted for caseworker review.",
+      "details": {}
+    },
+    {
+      "referral_id": "RF-2026-0414",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20514",
+        "requested_action": "Review award"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0414",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Weybridge"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0414",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 1
+      }
+    },
+    {
+      "referral_id": "RF-2026-0414",
+      "step": "EVENTS",
+      "message": "Case events retrieved.",
+      "details": {
+        "event_count": 10
+      }
+    },
+    {
+      "referral_id": "RF-2026-0414",
+      "step": "DRAFT",
+      "message": "Triage note drafted for caseworker review.",
+      "details": {}
+    },
+    {
+      "referral_id": "RF-2026-0415",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20521",
+        "requested_action": "Suspend assistance pending investigation"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0415",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Ash Hill"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0415",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 4
+      }
+    },
+    {
+      "referral_id": "RF-2026-0415",
+      "step": "POLICY_GATE",
+      "message": "Protected action detected.",
+      "details": {
+        "policy": "ACA-2026/1 section 3.2",
+        "reason": "Suspension of an award requires supervisor approval."
+      }
+    },
+    {
+      "referral_id": "RF-2026-0415",
+      "step": "ESCALATE",
+      "message": "Action blocked. Supervisor approval is required.",
+      "details": {
+        "policy": "ACA-2026/1 section 3.2"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0416",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20528",
+        "requested_action": "Review household composition"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0416",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Ash Hill"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0416",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 2
+      }
+    },
+    {
+      "referral_id": "RF-2026-0416",
+      "step": "DAY2_GUARDRAIL",
+      "message": "Household contains a person under 18.",
+      "details": {
+        "policy": "ACA-2026/2 section 3.9",
+        "children": [
+          "Maria Carver"
+        ]
+      }
+    },
+    {
+      "referral_id": "RF-2026-0416",
+      "step": "HANDOFF",
+      "message": "Triage note NOT drafted. Referral handed to caseworker.",
+      "details": {
+        "policy": "ACA-2026/2 section 3.9"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0417",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20535",
+        "requested_action": "Draft explanatory note"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0417",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Weybridge"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0417",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 1
+      }
+    },
+    {
+      "referral_id": "RF-2026-0417",
+      "step": "EVENTS",
+      "message": "Case events retrieved.",
+      "details": {
+        "event_count": 5
+      }
+    },
+    {
+      "referral_id": "RF-2026-0417",
+      "step": "DRAFT",
+      "message": "Triage note drafted for caseworker review.",
+      "details": {}
+    },
+    {
+      "referral_id": "RF-2026-0418",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20542",
+        "requested_action": "Review award"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0418",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Ash Hill"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0418",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 4
+      }
+    },
+    {
+      "referral_id": "RF-2026-0418",
+      "step": "DAY2_GUARDRAIL",
+      "message": "Household contains a person under 18.",
+      "details": {
+        "policy": "ACA-2026/2 section 3.9",
+        "children": [
+          "Michael Crowley",
+          "Rosa Vance"
+        ]
+      }
+    },
+    {
+      "referral_id": "RF-2026-0418",
+      "step": "HANDOFF",
+      "message": "Triage note NOT drafted. Referral handed to caseworker.",
+      "details": {
+        "policy": "ACA-2026/2 section 3.9"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0419",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20549",
+        "requested_action": "Record income change"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0419",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Calder Central"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0419",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 3
+      }
+    },
+    {
+      "referral_id": "RF-2026-0419",
+      "step": "EVENTS",
+      "message": "Case events retrieved.",
+      "details": {
+        "event_count": 6
+      }
+    },
+    {
+      "referral_id": "RF-2026-0419",
+      "step": "DRAFT",
+      "message": "Triage note drafted for caseworker review.",
+      "details": {}
+    },
+    {
+      "referral_id": "RF-2026-0420",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20556",
+        "requested_action": "Flag for contact attempt"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0420",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Suspended",
+        "district": "Northgate"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0420",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 4
+      }
+    },
+    {
+      "referral_id": "RF-2026-0420",
+      "step": "EVENTS",
+      "message": "Case events retrieved.",
+      "details": {
+        "event_count": 10
+      }
+    },
+    {
+      "referral_id": "RF-2026-0420",
+      "step": "DRAFT",
+      "message": "Triage note drafted for caseworker review.",
+      "details": {}
+    },
+    {
+      "referral_id": "RF-2026-0421",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20563",
+        "requested_action": "Review household composition"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0421",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Weybridge"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0421",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 4
+      }
+    },
+    {
+      "referral_id": "RF-2026-0421",
+      "step": "EVENTS",
+      "message": "Case events retrieved.",
+      "details": {
+        "event_count": 6
+      }
+    },
+    {
+      "referral_id": "RF-2026-0421",
+      "step": "DRAFT",
+      "message": "Triage note drafted for caseworker review.",
+      "details": {}
+    },
+    {
+      "referral_id": "RF-2026-0422",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20570",
+        "requested_action": "Draft triage note for supervisor"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0422",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Weybridge"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0422",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 4
+      }
+    },
+    {
+      "referral_id": "RF-2026-0422",
+      "step": "EVENTS",
+      "message": "Case events retrieved.",
+      "details": {
+        "event_count": 5
+      }
+    },
+    {
+      "referral_id": "RF-2026-0422",
+      "step": "DRAFT",
+      "message": "Triage note drafted for caseworker review.",
+      "details": {}
+    },
+    {
+      "referral_id": "RF-2026-0423",
+      "step": "READ_REFERRAL",
+      "message": "Referral read.",
+      "details": {
+        "resident_ref": "R-20577",
+        "requested_action": "Update payment details"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0423",
+      "step": "HISTORY",
+      "message": "Resident history retrieved.",
+      "details": {
+        "status": "Active",
+        "district": "Weybridge"
+      }
+    },
+    {
+      "referral_id": "RF-2026-0423",
+      "step": "HOUSEHOLD",
+      "message": "Household composition retrieved.",
+      "details": {
+        "household_size": 1
+      }
+    },
+    {
+      "referral_id": "RF-2026-0423",
+      "step": "POLICY_GATE",
+      "message": "Protected action detected.",
+      "details": {
+        "policy": "ACA-2026/1 section 3.4",
+        "reason": "Changing payment details requires supervisor approval."
+      }
+    },
+    {
+      "referral_id": "RF-2026-0423",
+      "step": "ESCALATE",
+      "message": "Action blocked. Supervisor approval is required.",
+      "details": {
+        "policy": "ACA-2026/1 section 3.4"
+      }
+    }
+  ]
+}
